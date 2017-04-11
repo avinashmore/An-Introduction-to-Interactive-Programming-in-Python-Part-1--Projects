@@ -1,4 +1,9 @@
+# you wanna play this game? Copy and paste the code in http://codeskulptor.org editor and hit the play button
+# use up and down arrow key to move the right bat.
+# use 's' for down motion and 'w' for up motion to move the left bat.
+
 # Implementation of classic arcade game Pong
+ 
 
 import simplegui
 import random
